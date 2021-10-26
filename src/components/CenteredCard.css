@@ -1,0 +1,9 @@
+.CenteredCard {
+    text-align: center;
+    min-width: 340px;
+    max-width: 500px;
+    border: gray solid 5px;
+    border-radius: 10px;
+    margin: 15px;
+    box-shadow: 2px 2px 5px 2px black;
+}
